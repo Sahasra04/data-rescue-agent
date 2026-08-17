@@ -1,0 +1,9 @@
+Name,Email,SignupDate,Amount,Status
+John Smith,john.smith@email.com,2024-01-15,150.00,active
+jane doe,JANE.DOE@EMAIL.COM,01/16/2024,200,Active
+John Smith,john.smith@email.com,2024-01-15,150.00,active
+Mike Johnson,mike.j@email.com,2024-1-17,,pending
+ Sarah Lee ,sarah.lee@email.com,2024-01-18,300.50,ACTIVE
+Tom Brown,tom.brown@email,Jan 19 2024,175.25,inactive
+Emily Clark,emily.clark@email.com,2024-01-20,,Active
+David Wilson,david.w@email.com,20-01-2024,225.00,pending
