@@ -3,6 +3,7 @@
 An autonomous AI agent that detects and fixes data quality issues in messy CSV, Excel, and JSON files — built for the **All Things Agentic Hackathon** using Gemini 3.5, Google's Agent Development Kit (ADK), and Cloud Run.
 
 **Category:** Taskmaster — Bring Your Own Friction (BYOF)
+![Architecture diagram](architecture.png)
 
 ## The Problem
 
